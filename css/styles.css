@@ -11,7 +11,6 @@ body {
   border-radius: 0;
   border: 0;
 }
-
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   width: 150px;
@@ -233,7 +232,7 @@ h3.menu-item-title {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/jumbotron_1200.jpg') no-repeat;
+    background: url('melissacastillo14.github.io/images/jumbotron_1200.jpg') no-repeat;
     height: 675px;
   }
 }
